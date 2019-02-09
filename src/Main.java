@@ -3,6 +3,7 @@ import java.util.Random;
 
 public class Main {
 	public static void main(String[] args) {
+
 		String testStr = " this    SENTENCE   should  be reTurned LOwer Camel CASE      ";
 
 		System.out.println("input:\n" + testStr);
@@ -27,6 +28,7 @@ public class Main {
 
 	// public static int treasureHunt(int[] caves, int[] flashlights) {
 	// return 0;
+	//
 	// }
 	// public static boolean searchCave(int caves, int flashlights) {
 	// }
